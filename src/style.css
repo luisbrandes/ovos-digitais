@@ -1,0 +1,29 @@
+h1 {
+    color: #a0522d;
+}
+
+.description {
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.banner {
+    width: 330px;
+    height: 300px;
+}
+
+a {
+    font-size: 17px;
+    color: orange;
+}
+
+.cor-azul{
+    color: #191970;  
+}
+button{
+    width: 100px;
+    margin-top: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    background-color: 191970;
+}
